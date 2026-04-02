@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.db
+.DS_Store
+
+.venv/
+venv/
+.uv-cache/
+uv-cache/
+uvcache/
+
+.pytest_cache/
+.mypy_cache/
